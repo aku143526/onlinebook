@@ -1,4 +1,4 @@
-Ray Tracing in One Weekend Book Series
+Ray Tracing in One Weekend Book Series . 
 ====================================================================================================
 
 | ![RT in One Weekend][cover1] | ![RT The Next Week][cover2] | ![RT The Rest of Your Life][cover3] |
